@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Dinesh_Portfolio/static/css/main.cb4b720f.css",
+    "main.js": "/Dinesh_Portfolio/static/js/main.c5db2c07.js",
+    "static/js/415.4d6acbeb.chunk.js": "/Dinesh_Portfolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Dinesh_Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/DINESH_RESUME.pdf": "/Dinesh_Portfolio/static/media/DINESH_RESUME.8ceba0e0ddb4c2b7a26f.pdf",
+    "static/media/concretify.jpg": "/Dinesh_Portfolio/static/media/concretify.2f51386efe8d30745f43.jpg",
+    "static/media/home-main.svg": "/Dinesh_Portfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/Dinesh_Portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/image.png": "/Dinesh_Portfolio/static/media/image.25ac67d3a6170a262b7a.png",
+    "static/media/home-bg.jpg": "/Dinesh_Portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/Dinesh_Portfolio/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/pre.svg": "/Dinesh_Portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/Dinesh_Portfolio/index.html",
+    "main.cb4b720f.css.map": "/Dinesh_Portfolio/static/css/main.cb4b720f.css.map",
+    "main.c5db2c07.js.map": "/Dinesh_Portfolio/static/js/main.c5db2c07.js.map",
+    "415.4d6acbeb.chunk.js.map": "/Dinesh_Portfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Dinesh_Portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb4b720f.css",
+    "static/js/main.c5db2c07.js"
+  ]
+}
